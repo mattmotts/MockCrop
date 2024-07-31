@@ -167,6 +167,7 @@ cython_debug/
 
 # Data
 data/
+notebooks/mockups.csv
 
 # Images
 images/
